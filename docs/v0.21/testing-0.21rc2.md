@@ -382,7 +382,7 @@ You've reached the end of the regularly scheduled programming. Take a little tim
 Use this command to remove all the data you played around with:
 
 ```bash
-rm /tmp/21-rc-test/
+rm -rf /tmp/21-rc-test/
 ```
 
 ## The Most Important Step
